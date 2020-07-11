@@ -14,12 +14,10 @@
 <br>
 Залежності
 <br>
-<code>
-  python3
-  <br>
-  pip3 install bs4
-  <br>
-  pip3 install requests
-</code>
+<code>pip3 install bs4</code>
 <br>
-Запуск <code>python3 main.py</code>
+<code>pip3 install requests</code>
+<br>
+Запуск 
+<br> 
+<code>python3 main.py</code>
